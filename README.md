@@ -2,14 +2,14 @@
 <!---
 light-yagami0409/light-yagami0409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----><h1 align="center">Hi 👋, I'm Kunal Jagate</h1>
-<h3 align="center">Developer from India Not only Highly programming enthusiastic but also Anime lover also Founding member and CEO at @CodderscluB</h3>
+---><h1 align="center">Hi 👋, I'm Kunal Jakate</h1>
+<h3 align="center">Developer from India Not only Highly programming enthusiastic but also Anime lover also Founding member of @CodderscluB</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=light-yagami0409&label=Profile%20views&color=0e75b6&style=flat" alt="light-yagami0409" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=light-yagami0409" alt="light-yagami0409" /></a> </p>
 
-- 🔭 I’m currently learning **Javascript**
+- 🔭 I’m currently learning **AWS**
 
 - 🌱 I’m currently learning **Java script**
 
